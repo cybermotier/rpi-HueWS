@@ -1,2 +1,2 @@
 # rpi-HueWS
-Simple project to experiment connection to HUE system
+Simple project to experiment simple connections to an HUE system.
